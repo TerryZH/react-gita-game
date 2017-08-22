@@ -3543,6 +3543,10 @@ generate-function@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/generate-function/-/generate-function-2.0.0.tgz#6858fe7c0969b7d4e9093337647ac79f60dfbe74"
 
+generate-maze@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/generate-maze/-/generate-maze-0.1.0.tgz#8f04ea25a2f4a53fdae2e412be4d27dc8b4c19e5"
+
 generate-object-property@^1.1.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/generate-object-property/-/generate-object-property-1.2.0.tgz#9c0e1c40308ce804f4783618b937fa88f99d50d0"
